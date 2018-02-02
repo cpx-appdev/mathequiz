@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pfadsumme", "Pfadsumme\Pfadsumme.csproj", "{73192712-4D04-47AB-8D37-82717B3B335D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primzahl", "Primzahl\Primzahl.csproj", "{65E21833-C5AF-4625-ABDB-E3B0F1758CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutationen", "Permutationen\Permutationen.csproj", "{8674BF92-7CF9-477D-BBAE-B160A7F9C33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73192712-4D04-47AB-8D37-82717B3B335D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73192712-4D04-47AB-8D37-82717B3B335D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73192712-4D04-47AB-8D37-82717B3B335D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73192712-4D04-47AB-8D37-82717B3B335D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E21833-C5AF-4625-ABDB-E3B0F1758CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E21833-C5AF-4625-ABDB-E3B0F1758CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E21833-C5AF-4625-ABDB-E3B0F1758CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E21833-C5AF-4625-ABDB-E3B0F1758CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8674BF92-7CF9-477D-BBAE-B160A7F9C33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8674BF92-7CF9-477D-BBAE-B160A7F9C33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8674BF92-7CF9-477D-BBAE-B160A7F9C33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8674BF92-7CF9-477D-BBAE-B160A7F9C33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED87DFC-C720-4AC1-B0F7-4F363E5BA454}
+	EndGlobalSection
+EndGlobal
